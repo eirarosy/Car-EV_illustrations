@@ -1,4 +1,3 @@
 # Car-EV_illustrations
 
-
-<img width="1024" height="1024" alt="Car-EV" src="https://github.com/user-attachments/assets/e2500724-aebe-4170-94ce-1b28e5f4f523" />
+<img width="1024" height="1024" alt="Car-EV" src="https://github.com/user-attachments/assets/bc5c4384-2443-46b4-b84d-200c239e9655" />
